@@ -51,4 +51,4 @@
 
 <a href="https://github.com/lefi-andri">GitHub</a>
 
-<p align="center"><sub>Lefi Andri · Founder profile generated</sub></p>
+<p align="center"><sub>Lefi Andri</sub></p>
