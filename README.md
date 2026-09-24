@@ -51,4 +51,4 @@
 
 <a href="https://github.com/lefi-andri">GitHub</a>
 
-<p align="center"><sub>Lefi Andri · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Lefi Andri · Founder profile generated</sub></p>
