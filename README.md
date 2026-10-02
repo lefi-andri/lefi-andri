@@ -7,7 +7,7 @@
 > Full Stack Web Developer
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=lefi-andri&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F40788823%3Fu%3De40f5e74d2f240112e0fa0e48dca2d20ee433048%26v%3D4" alt="lefi-andri hero visual" />
+  <img src="https://raw.githubusercontent.com/lefi-andri/lefi-andri/refs/heads/main/assets/heading1.svg" alt="lefi-andri hero visual" />
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 ## What I’m shipping
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=lefi-andri&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F40788823%3Fu%3De40f5e74d2f240112e0fa0e48dca2d20ee433048%26v%3D4" alt="lefi-andri highlights visual" />
+  <img src="https://raw.githubusercontent.com/lefi-andri/lefi-andri/refs/heads/main/assets/heading2.svg" alt="lefi-andri highlights visual" />
 </p>
 
 <p><b>Lefi Andri</b> is shipping 10 public projects with 0 stars of proof.</p>
@@ -44,7 +44,7 @@
 ## Start a conversation
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=lefi-andri&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F40788823%3Fu%3De40f5e74d2f240112e0fa0e48dca2d20ee433048%26v%3D4" alt="lefi-andri social visual" />
+  <img src="https://raw.githubusercontent.com/lefi-andri/lefi-andri/refs/heads/main/assets/heading3.svg" alt="lefi-andri social visual" />
 </p>
 
 <a href="https://github.com/lefi-andri">GitHub</a>
